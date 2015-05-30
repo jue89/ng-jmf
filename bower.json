@@ -1,0 +1,27 @@
+{
+  "name": "ng-jmf",
+  "version": "0.0.1",
+  "authors": [
+    "Jue <me@jue.yt>"
+  ],
+  "description": "Angluar provider for communication between JMF-based server and client.",
+  "main": "lib/ng-jmf.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jmf"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jue89/ng-jmf",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": ">=1.4.0"
+  }
+}
